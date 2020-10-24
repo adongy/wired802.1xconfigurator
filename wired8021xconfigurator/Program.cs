@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SetupECLAIRNetwork
+namespace wired8021xconfigurator
 {
     static class Program
     {
