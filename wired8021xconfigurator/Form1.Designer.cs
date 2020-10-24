@@ -1,4 +1,4 @@
-﻿namespace SetupECLAIRNetwork
+﻿namespace wired8021xconfigurator
 {
     partial class Form1
     {

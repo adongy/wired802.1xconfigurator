@@ -10,7 +10,7 @@ using System.Resources;
 [assembly: AssemblyDescription("Configure wired 802.1x on your computer")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ECLAIR")]
-[assembly: AssemblyProduct("SetupECLAIRNetwork")]
+[assembly: AssemblyProduct("wired8021xconfigurator")]
 [assembly: AssemblyCopyright("Copyright © Anthony Dong 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

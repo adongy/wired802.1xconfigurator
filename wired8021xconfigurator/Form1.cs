@@ -16,7 +16,7 @@ using System.Xml.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Reflection;
 
-namespace SetupECLAIRNetwork
+namespace wired8021xconfigurator
 {
     public partial class Form1 : Form
     {
@@ -36,7 +36,7 @@ namespace SetupECLAIRNetwork
             string result = string.Empty;
             
             //using (Stream stream = this.GetType().Assembly.
-            //           GetManifestResourceStream("SetupECLAIRNetwork.Resources." + filename))
+            //           GetManifestResourceStream("wired8021xconfigurator.Resources." + filename))
             using (Stream stream = Assembly.GetExecutingAssembly().GetManifestResourceStream(GetType(), filename))
             using (StreamReader sr = new StreamReader(stream))
             {
